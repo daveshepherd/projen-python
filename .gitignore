@@ -83,5 +83,6 @@ dmypy.json
 .pyre/
 .pytype/
 cython_debug/
+!/CODEOWNERS
 !/.github/pull_request_template.md
 !/.projenrc.py
